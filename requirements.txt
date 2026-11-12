@@ -1,0 +1,7 @@
+icrawler
+requests
+Pillow==9.5.0
+numpy
+librosa
+moviepy==1.0.3
+yt-dlp
